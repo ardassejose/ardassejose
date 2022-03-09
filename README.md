@@ -3,7 +3,6 @@
 - 💻 Estudando: HTML, CSS, JavaScript & Python
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas (1/5)
 - 📫 Contate-me no email: josevictorardasse@gmail.com
-- 👨🏻 21y
 - 😄 Pronouns: ele/dele
 
 <div align="center">
