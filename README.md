@@ -1,4 +1,4 @@
-### Hello devs! Me chamo José Víctor Ardasse
+### Hello devs! Me chamo José Víctor Ardasse, estudante de Análise e Desenvolvimento de Sistemas e futuro Desenvolvedor Front-end
 
 - 💻 Estudando: HTML, CSS, JavaScript & Python
 - 🌱 Cursando: Análise e Desenvolvimento de Sistemas (1/5)
