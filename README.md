@@ -1,32 +1,40 @@
-### Hello devs! Me chamo José Víctor Ardasse, estudante de Análise e Desenvolvimento de Sistemas e futuro Desenvolvedor Front-end
-
-- 💻 Estudando: HTML, CSS, JavaScript & Python
-- 🌱 Cursando: Análise e Desenvolvimento de Sistemas (1/5)
-- 📫 Contate-me no email: josevictorardasse@gmail.com
-- 😄 Pronouns: ele/dele
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>José Víctor Ardasse</i></a> 😃️</h1>
+  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na UVA e compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>LinkedIn</i></a><span> 🤝🏻
+  </a><br>
+  <p align="center">Já se segue lá e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+</div>
 
 <div align="center">
   <a href="https://github.com/ardassejose">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ardassejose&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardassejose&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vic-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vic-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vic-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vic-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ardassejose&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardassejose&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
- ##
- 
-<div> 
+<div align="center" valign="top"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div><br>
+
+<div align="center">
   <a href="https://www.youtube.com/channel/UCqmd8JAuKMU3IaRYXE7u1UQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/ardasse.jose" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/jucafe" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:josevictorardasse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ardasse.jose/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <!-- <a href="https://www.facebook.com/ardasse_jose" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/josé-víctor-ardasse-172334186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:josevictorardasse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
   
   ![Snake animation](https://github.com/ardassejose/ardassejose/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+
+<div align="center">
+  <p>Feito com :heart: e HTML.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
