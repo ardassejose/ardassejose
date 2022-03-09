@@ -2,7 +2,7 @@
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>José Víctor Ardasse</i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na UVA e compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>LinkedIn</i></a><span> 🤝🏻
   </a><br>
-  <p align="center">Já se segue lá e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Já me segue lá e vem codar comigo, tua contribuição será muito bem vindo(a), vlw mesmo! 😉️</h2>
 </div>
 
 <div align="center">
