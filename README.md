@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>José Víctor Ardasse</i></a> ❤️‍🔥</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na UVA e compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/josé-víctor-ardasse-172334186/"><i>LinkedIn</i></a> 🤝🏻
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ardassejose"><i>José Víctor Ardasse</i></a> ❤️‍🔥</h1>
+  <p align="center">Sou Desenvolvedor de Soluções Web Fullstack e estudo Análise e Desenvolvimento de Sistemas na UVA. Compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/ardassejose/"><i>LinkedIn</i></a> 🤝🏻
   <br>
   <p align="center">Já me segue lá e vem codar comigo, será um prazer te ajudar no que tiver ao meu alcance, vlw mesmo! 😉️</h2>
 </div>
@@ -16,13 +16,12 @@
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
-
 </div><br>
 
 <div align="center">
