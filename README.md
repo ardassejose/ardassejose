@@ -1,11 +1,10 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Me chamo <a href="https://www.linkedin.com/in/ardassejose"><i>José Víctor Ardasse</i></a>. Seja muito bem-vindo/a ❤️‍🔥</h1>
-  <h2 align="center">Sou Desenvolvedor Web na <a href="https://www.linkedin.com/company/arizona-global/mycompany/" style="color: #ffA500;">Arizona</a> e estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/universidade-veiga-de-almeida/" style="color: #9400D3;">UVA</a>. Compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/ardassejose/"><i>LinkedIn</i></a>🤝</h2>
+  <h1 align="center">Seja muito bem-vindo/a! Me chamo <a href="https://www.linkedin.com/in/ardassejose"><i>José Víctor Ardasse</i></a>. 👨🏻‍💻</h1>
+  <h2 align="center">Sou Desenvolvedor Web na <a href="https://www.linkedin.com/company/arizona-global/mycompany/" style="color: #ffA500;">Arizona</a> e estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/universidade-veiga-de-almeida/" style="color: #9400D3;">UVA</a>. Compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/ardassejose/"><i>LinkedIn</i></a> 🌐</h2>
   <br>
   <p align="center">Já me segue lá e vem codar comigo, será um prazer te ajudar no que tiver ao meu alcance, vlw mesmo! 😉️</h2>
 </div>
   <br>
-
 <div align="center">
   <a href="https://github.com/ardassejose">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ardassejose&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
