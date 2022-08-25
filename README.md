@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/ardassejose"><i>José Víctor Ardasse</i></a> ❤️‍🔥</h1>
   <p align="center">Sou Desenvolvedor Web na <a href="https://www.linkedin.com/company/arizona-global/mycompany/" style="color: #ffA500;">Arizona</a> e estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/universidade-veiga-de-almeida/" style="color: #9400D3;">UVA</a>. Compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/ardassejose/"><i>LinkedIn</i></a> 🤝🏻
-  <br>/
+  <br>
   <p align="center">Já me segue lá e vem codar comigo, será um prazer te ajudar no que tiver ao meu alcance, vlw mesmo! 😉️</h2>
 </div>
   <br>
