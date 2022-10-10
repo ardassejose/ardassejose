@@ -2,7 +2,7 @@
   <h1 align="center">Seja muito bem-vindo/a! Me chamo <a href="https://www.linkedin.com/in/ardassejose"><i>José Víctor Ardasse</i></a>. 👨🏻‍💻</h1>
   <h2 align="center">Sou Desenvolvedor Web na <a href="https://www.linkedin.com/company/arizona-global/mycompany/" style="color: #ffA500;">Arizona Global</a> e estudo Análise e Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/universidade-veiga-de-almeida/" style="color: #9400D3;">UVA</a>. Compartilho meu aprendizado no meu <a href=""https://www.linkedin.com/in/ardassejose/"><i>LinkedIn</i></a> 🌐</h2>
   <br>
-    <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ardassejose/0e6a16c1173e186f482c82f2fe187a51/raw/0f7a88faaee1aab59dc801985e73ecbf2fee390b/githubcard.svg">
+    <img align="right" height="150em" src="https://raw.githubusercontent.com/gist/ardassejose/0e6a16c1173e186f482c82f2fe187a51/raw/0f7a88faaee1aab59dc801985e73ecbf2fee390b/githubcard.svg">
   <p align="center">Já me segue lá e vem codar comigo, será um prazer te ajudar no que tiver ao meu alcance, vlw mesmo! 😉️</h2>
 </div>
   <br>
